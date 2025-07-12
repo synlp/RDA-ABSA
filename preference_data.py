@@ -1,6 +1,5 @@
 import json
 from collections import defaultdict
-from nltk.translate.bleu_score import sentence_bleu, SmoothingFunction
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.decomposition import LatentDirichletAllocation
 from sklearn.preprocessing import normalize
