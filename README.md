@@ -14,12 +14,12 @@ RDA-ABSA (Relation-aware Data Augmentation for Aspect-Based Sentiment Analysis) 
 ### Installation
 Install all required dependencies with:
 pip install 
--scikit-learn       # For text vectorization, topic modeling, and evaluation metrics
--transformers       # For Hugging Face models (tokenizers, pre-trained LLMs)
--torch              # PyTorch deep learning framework
--tqdm               # For progress bars in long-running tasks
--numpy              # For numerical operations and array handling
--pandas              # For data manipulation and processing
+- scikit-learn       # For text vectorization, topic modeling, and evaluation metrics
+- transformers       # For Hugging Face models (tokenizers, pre-trained LLMs)
+- torch              # PyTorch deep learning framework
+- tqdm               # For progress bars in long-running tasks
+- numpy              # For numerical operations and array handling
+- pandas              # For data manipulation and processing
 
 ## 🚀 Experimental Workflow
 
