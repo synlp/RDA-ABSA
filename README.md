@@ -31,10 +31,9 @@ python dpo_augmentation.py
 
 ### 2. Reward Scoring
 Evaluate the quality of augmented texts using two reward models to assign scores:
-# First reward model evaluation (grammaticality)
+
 python reward1.py 
 
-# Second reward model evaluation (semantic relevance)
 python reward2.py 
 
 ### 3. Preference Dataset Construction
